@@ -1,0 +1,8 @@
+streamlit==1.32.0
+google-generativeai==0.3.2
+google-cloud-aiplatform==1.38.1
+duckduckgo-search==4.4.3
+Pillow==10.2.0
+python-dotenv==1.0.1
+fpdf2==2.7.8
+protobuf>=4.25.1 
